@@ -10,6 +10,9 @@ Main Tutorial : https://www.youtube.com/watch?v=d_J2fWqCKgM
 Tools :
 Tableau
 
+Full Project on :
+https://public.tableau.com/app/profile/meilinda6027/viz/Covid-19inIndonesia_16442963880870/SimpleCovidCase-Dashboard?publish=yes
+
 Preview of Result : 
 - Peta sebaran covid 
 ![petacovid](https://github.com/meilindazheng/TableauBeginner-DV/blob/main/img-01.jpg)
@@ -19,4 +22,5 @@ Preview of Result :
 <br>
 - Sebaran kasus
 ![sebarankasus](https://github.com/meilindazheng/TableauBeginner-DV/blob/main/img-03.jpg)
+
 
